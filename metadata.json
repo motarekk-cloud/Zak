@@ -1,0 +1,6 @@
+{
+  "name": "و الذاكرون",
+  "description": "تطبيق و الذاكرون لعرض آيات القرآن الكريم من مصحف مجمع خادم الحرمين الشريفين الملك فهد الرسمي، مع تحديد الورد اليومي كأرباع أحزاب وتوقع الختمة ومزامنة القراءة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
